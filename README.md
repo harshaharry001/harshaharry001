@@ -7,8 +7,8 @@
 
 <div align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-181825?style=for-the-badge&logo=linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/chanakya-chowdary-vasantha-081a00222)](https://www.linkedin.com/in/chanakya-chowdary-vasantha-081a00222)
-[![Gmail Badge](https://img.shields.io/badge/gmail-181825?style=for-the-badge&logo=gmail&logoColor=EA4335&link=mailto:chanakyavasantha@gmail.com)](mailto:chanakyavasantha@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-181825?style=for-the-badge&logo=linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/chanakya-chowdary-vasantha-081a00222)]([https://www.linkedin.com/in/chanakya-chowdary-vasantha-081a00222](https://www.linkedin.com/in/harsha-vardhan-a4aa09252/))
+[![Gmail Badge](https://img.shields.io/badge/gmail-181825?style=for-the-badge&logo=gmail&logoColor=EA4335&link=mailto:chanakyavasantha@gmail.com)](mailto:vardhan.h2003@gmail.com)
 
 
 ## Technology Stack:
@@ -35,19 +35,19 @@
 
 ## 📈 Stats 📉
 
-[![GitHub Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2chanakyavasantha&label=profile%20views&labelColor=%231e1e2e&countColor=%23cba6f7)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fchanakyavasantha)
+[![GitHub Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2harsha&label=profile%20views&labelColor=%231e1e2e&countColor=%23cba6f7)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fharsha)
 
 
 <a>
-  <img height=150 src="https://github-readme-stats.vercel.app/api?username=chanakyavasantha&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="GitHub Stats">
+  <img height=150 src="https://github-readme-stats.vercel.app/api?username=harshaharry001&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="GitHub Stats">
 </a>
 <a>
-  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanakyavasantha&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="GitHub Languages">
+  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshaharry001&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="GitHub Languages">
 </a>
 
 
 
-![Harsha Vardhan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chanakyavasantha&custom_title=chanakya%20Vasantha's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Harsha Vardhan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harshaharry001&custom_title=Harsha%20Vardhan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
 
